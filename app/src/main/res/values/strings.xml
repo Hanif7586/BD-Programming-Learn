@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">BD Programming Learn
+</string>
+    <string name="bangla">
+\n me ïiæ‡Z †Zvgv‡K fve‡Z n‡e Zzwg †Kvb welq Uv wkL‡Z Pv‡”Qv? \n
+
+</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">close</string>
+
+    <string name="english">
+        1.Web design And Development \n
+2. Apps Development \n
+3.Graphics designer \n
+4.Marketing \n
+5.Writting \n
+6.Blogging \n
+7.Editing \n
+
+    </string>
+    <string name="bangla2">
+        Av‡iv A‡bK wKQz Av‡Q GKUz ¸M‡j mvP© Ki‡jB †c‡q hv‡eb|GLv‡b Dc‡ii hZMy‡jv  welq Zy‡j a‡iwQ me My‡jvi eY©bv Ges G¸‡jv wKfv‡e wkL‡eb ‡kLvi Rb¨ wK wK
+Ki‡Z n‡e †Kv_vq wkL‡eb ? wkLvi ci wKfv‡e KvR Ki‡eb ev †Kv_vq KvR Ki‡eb me  GB A¨vcm Gi g‡a¨ cv‡eb| \n
+
+    </string>
+
+    <string name="bangla3">
+        GLb Avcwb hw` I‡qe wWRvBb GÛ †W‡fjc‡g›U wkL‡Z Pvb Zvn‡j Avcbv‡K wb‡Pi avc ¸‡jv  †`L‡Z n‡e|I‡qe wWRvBb wkL‡Z n‡j Avcbv‡K wK wK wkL‡Z n‡e?
+        GKwU I‡qemvBU wWRvBb Kiv‡K ms‡ÿ‡c I‡qe wWRvBb e‡j|Avgv‡`i †Kvb wKQz cÖ‡qvRb n‡j Avgiv ¸M‡j mvP© Kwi|
+        \n \n
+
+        Avgviv ¸M‡j mvP© Kivi ci †h¸‡jv Av‡m GB¸‡jv‡K‡cR e‡j| A‡bK¸‡jv †cR w`‡q GKwU I‡qemvBU ‰Zwi nq|  †h †Kvb
+‡W‡fjcvi n‡Z n‡j Avcbv‡K Av‡M ‡cÖvMÖvwgs wkL‡Z n‡e|‡cÖvMÖvwgs n‡”Q Kw¤úDUv‡i ‡Kvb mgm¨vi mgvavb Kiv|
+‡Kvb MvwYwZK mgm¨v Kw¤úDUvi gva¨‡g mgvavb Ki‡Z PvB‡j Kw¤úDUvi fvlv wkL‡Z n‡e|
+\n \n
+         Avi Kw¤úUv‡ii fvlv n‡”Q evBbvwi
+(0,1)hv Avgv‡`i c‡o eySv Lye KóKi|Zvn‡j wewfbœ mgm¨v ev g¨v_ mjf ev †gvevBj,Kw¤úDUvi mdUIq¨vi,I‡qmvBU me
+wKQz ‰Zwi ev mgm¨v mgvavb Kivi Rb¨ wKQz j¨v½y‡qR ‰Zwi Kiv n‡q‡Q Avi †mUvB  ‡cÖvMÖvwgs j¨v½y‡qR|‡hgb:Rvfv,cvB_b,wcBPwc,
+wm,Rvfvw¯‹Þ,wmGmGm BZ¨vw`|
+\n \n
+
+    </string>
+    <string name="bangla4">
+        I‡qe wWRvBb wkL‡Z n‡j †Kvb †Kvb fvlv wkL‡Z n‡e GLb †mUv Rvbe,  \n
+    </string>
+    <string name="english2">
+        HTML, CSS, Javascript and Jquary, PHP, Python, Bootstrap, woardpress
+    </string>
+    <string name="bangla5">
+        GB fvlv My‡jv wkL‡Z n‡e|GB fvlv ¸‡jv wKfv‡e wkL‡eb GLb GUv Rvbe|
+    </string>
+    <string name="english3">
+        YouTubers-  \n
+1.Anisul Islam \n
+2. Jhankar mahbub \n
+3. Freelancer nasim \n
+4.w3 school \n
+
+    </string>
+    <string name="bangla6">
+GLv‡b K‡qKwU BDwUDe P¨v‡b‡jb bvg e‡j w`jvg| G‡`i bvg BDwUDe G mvP© w`‡j P¨v‡bj †c‡q hv‡eb|Zvici G‡`i †cø wj‡÷ †M‡j I‡qe wWRvBb Rb¨ me fvlvi
+wfwWI AvKv‡i ‡`Iqv Av‡Q|IB¸‡jv †`‡L ïiæ K‡i w`b|
+
+
+    </string>
+    <string name="english4">
+    Apps Development \n
+1.Android Application Developer \n
+2.Desktop Application Developer \n
+3.Website Application Developer \n
+4.IOS Application Developer \n
+
+</string>
+    <string name="bangla7">
+    G¸‡jvi Rb¨ Avjv`v Avjv`v †cÖvMvg wkL‡Z n‡e|	\n
+</string>
+    <string name="english5">
+    1.For Android Developer \n
+    (Java/Kotlin,Firebase) \n
+     2.Desktop Application Developer \n
+    (C# or Java) \n
+    3.Website Application Developer \n
+    (PHP/Javascript,Python/Ruby) \n
+     4.IOS Application Developer \n
+    (Swift) \n \n
+</string>
+    <string name="bangla8">
+    গ্রাফিক্স ডিজাইন হল কোন একটি ডিজাইন বা কোন আকৃতি কম্পিউটারের মাধ্যমে রূপ দেয়া। সহজ ভাষায় বলতে গেলে কোনো বিজ্ঞাপন, ব্যানার, টি শার্ট ডিজাইন, ফার্নিচার ডিজাইন, ফ্যাশন ডিজাইন, এবং প্রোডাক্ট ডিজাইন এসব কাজগুলো কম্পিউটারের মাধ্যমে নিখুঁতভাবে ক্রিয়েটিভ আইডিয়া দিয়ে নিত্যনতুন ডিজাইন করার নামই হচ্ছে গ্রাফিক্স ডিজাইন।
+    \n \n
+
+</string>
+    <string name="bangla9">
+    একজন গ্রাফিক্স ডিজাইনারের কী ধরনের দক্ষতা ও জ্ঞান থাকতে হয় ?
+প্রজেক্টের উপর টেকনিক্যাল জ্ঞানের ধরন নির্ভর করে। সাধারণত যেসব গ্রাফিক্স সফটওয়্যারে দক্ষতা দরকার হয়ে, সেগুলোর মধ্যে রয়েছে:
+\n \n
+</string>
+    <string name="english6">
+        Adobe Photoshop \n
+Adobe Illustrator \n
+Adobe InDesign \n
+Adobe PageMaker \n
+    </string>
+    <string name="bangla10">
+    গ্রাফিক্স ডিজাইনের টুলস এবং সফটওয়্যার সংগ্রহ করতে হবে। গ্রাফিক্স ডিজাইনের পপুলার দুইটি সফটওয়্যার এডোবি ইলেস্ট্রেটর এবং এডোবি ফটোশপ সংগ্রহ করে শেখা শুরু করে দিন। এডোবি ইলেস্ট্রেটর এবং ফটোশপ শেখার ইউটিউবে অনেক ভিডিও রয়েছে, সেখান থেকে যে কোন একটি চ্যানেল আপনার পছন্দনুযায়ী ব্যাসিক টুলস থেকে শেখা শুরু করে দিন।
+    \n
+</string>
+    <string name="bangla11">
+
+    GLv‡b K‡qKwU BDwUDe P¨v‡b‡jb bvg e‡j w`jvg| G‡`i bvg BDwUDe G mvP© w`‡j P¨v‡bj †c‡q hv‡eb|Zvici G‡`i †cø wj‡÷ †M‡j I‡qe wWRvBb Rb¨ me fvhvi
+wfwWI AvKv‡i ‡`Iqv Av‡Q|IB¸‡jv †`‡L ïiæ K‡i w`b|
+\n
+</string>
+    <string name="english7">
+        1.CC Designer \n
+2.MaxpoinT Hridoy \n
+3.Graphic School \n
+4.BD Online Courses \n
+
+    </string>
+    <string name="bangla12">
+    ডিজিটাল মার্কেটিং কি? \n
+ডিজিটাল ডিভাইস এবং প্রযুক্তি (মোবাইল, কম্পিউটার, ইন্টারনেট ইত্যাদি) ব্যবহার করে কোন পণ্য বা সার্ভিসের প্রচারণা করাই হলো ডিজিটাল মার্কেটিং। যেটাকে অনলাইন প্রচারণা ও বলা হয়। \n \n
+
+    ডিজিটাল মার্কেটিং কিভাবে করবেন? \n
+ডিজিটাল পদ্ধতিতে মার্কেটিং করার অনেক মেথড আছে। আপনার ব্যবসায়ের জন্য কোন মেথডটা বেশি কার্যকর, আপনার পণ্যটি কোন মেথডে সহজে গ্রাহকের কাছে পৌছাতে পারবেন তা আপনাকে খুজে বের করতে হবে। এরপর আপনাকে সেই মেথডেই মার্কেটিং করতে হবে। \n \n
+
+    ((সেরা কয়েকটি মেথড)) \n
+
+</string>
+    <string name="english8">
+
+        •Search Engine Merketing \n
+•	Social Media Merketing \n
+•	Affiliate Merketing \n
+•	Content Merketing \n
+•	Email Merketing \n
+•	Display Advertising \n
+•	Viral Merketing \n \n
+
+
+    </string>
+
+    <string name="bangla13">
+        ডিজিটাল মার্কটিং কিভাবে শিখবেন? \n
+
+    </string>
+    <string name="english9">
+        Youruber Name: \n
+1.Digital Marketing Bangla Tutorial \n
+2. Pijush Saha \n
+3. Ayman Sadiq \n
+4.Outsourcing Institute By Jamal Sir \n
+
+
+    </string>
+
+    <string name="bangla14">
+        w`¦Zxq cv‡U© me wKQz Av‡iv fv‡jv fv‡e eySv‡bv Av‡Q|
+    </string>
+    <string name="bangla15">
+   এইচটিএমএল  এটা কোন প্রোগ্রামিং ল্যাংগুয়েজ নয়, মার্কআপ ল্যাংগুয়েজ
+ ওয়েব ডেভেলপার হতে হলে এই ল্যাংগুয়েজ টি সবার আগে ভালভাবে শিখতে হবে।তবে এটা শেখা খুব সহজ
+ এটা শিখলেই আপনি একটা ওয়েব পেজ তৈরী করতে পারবেন। \n \n
+        এরপর যদি সিএসএস শেখেন তাহলে ঐ পেজটিতে আরেকটু প্রান দিতে পারবেন
+ তারপর জাভাস্ক্রিপ্টের পালা, জাভাস্ক্রিপ্ট শিখে এর এপ্লিকেশন করলে আপনার ঐ ওয়েব পেজটি ডাইনামিক হওয়া শূরু হল
+        সবশেষে পিএইচপি + ডেটাবেস শিখলে আপনি পূর্নাঙ্গ ডেটাবেস Driven ওয়েবসাইট  তৈরী করতে পারবেন
+\n
+
+    </string>
+
+    <string name="bangla16">
+        আমরা মূলত দুটি পোগ্রামিং ভাষার মাধ্যমে A¨vcm বানাতে পারি। মূলক এটা প্রয়োজন হয় যখন অপনি কোন কাজ সম্পাদন করতে চান। ধরুন আপনি একটা বাটন দিয়ে ফোনের টর্চ চালু করতে চান, তো সেক্ষেত্রে আপনার জাভা  অথবা কটলিন   দিয়ে বাটনটিকে পোগ্রাম করতে হবে যাতে সেটিতে ক্লিক করলে কোন একটি ঘটনা ঘটে, যেমন: টর্চ জ্বলে ওঠা।
+   \n
+    </string>
+
+    <string name="bangla17">
+         যেটাতে আপনি সমস্ত কোড করবেন, ডিজাইন করবেন, কনটেন্ট যোগ করবেন। কিভাবে এখানে ফাইল খুলতে হয়, ছবি যোগ করতে হয়, লেআউট নির্ধারন করতে হয় এসব খুঁটিনাটি বিষয় সম্পর্কে আপনার জানতে হবে। আর এর সাথে আপনাকে জানতে হবে কিভাবে বিভিন্ন সময় ভুল ভ্রন্তিগুলো নির্নয় করা যায় অর্থাৎ ডিবাগিং সম্পর্কে ধারনা থাকতে হবে।
+    \n
+    </string>
+
+    <string name="bangla18">
+        সাধারনত, যিনি ব্লগে পোস্ট করেন তাকে ব্লগার বলার হয়। ব্লগাররা প্রতিনিয়ত তাদের ওয়েবসাইটে কনটেন্ট যুক্ত করেন আর ব্যবহারকারীরা সেখান থেকে তাদের প্রয়োজনীয় তথ্য নেন এবং সেখানে তাদের মন্তব্য বা অভিবাক্তি প্রকাশ করতে পারেন। এছাড়াও সাম্প্রতিক কালে ব্লগিং, ফ্রিলান্স সাংবাদিকতার একটি অন্যতম মাধ্যম হয়ে উঠছে। সাম্প্রতিক ঘটনাসমূহ নিয়ে এক বা একাধিক ব্লগার রা এটি নিয়মিত আপডেট করেন।
+       \n
+
+    </string>
+    <string name="bangla19">
+বিভিন্ন K¤úvwb নিজের ব্র্যান্ড এর জন্য wfwWI BwWwUs করান.
+তাই এই ব্যাপারে ‡Kvm©  করলে আপনি ফ্রিল্যান্সিং এর মাধ্যমে অনেক কাজ পেতে পারবেন  \n
+    </string>
+    <string name="englaish10">
+        Fiverr  \n
+        Upwork  \n
+        Freelancer  \n
+        Guru
+
+
+    </string>
+    <string name="h"><![CDATA[-twVHlMefqc&t=27s]]></string>
+    <string name="hh"><![CDATA[yrpTN_jxGWk&t=1s]]></string>
+
+
+    <string name="number">
+        Call:+01870457852\n
+        Friday(9am-5pm) \n\n
+
+
+        Email:hanifrohan7@gmail.com\n
+        web:sites.google.com/view/hanif-hst\n
+        Location:Nilphamari,Rongpur
+
+    </string>
+</resources>

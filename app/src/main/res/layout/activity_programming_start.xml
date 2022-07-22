@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fcf1ed"
+    android:padding="15dp"
+     tools:context=".programming_start">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Learn to Earn "
+            android:padding="10dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:background="#B2292929"
+            android:layout_marginTop="5dp"
+            android:textColor="#F9F8FA"
+            android:textAllCaps="true"
+            android:fontFamily="serif"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla"
+            android:fontFamily="@font/banglaa"
+            android:textSize="30dp"
+            android:lineSpacingExtra="10sp"
+            android:textStyle="bold"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+
+             />
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="400dp"
+          android:src="@drawable/siyam"
+          android:scaleType="fitXY"
+
+
+          />
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="25dp"
+          android:fontFamily="@font/banglaa"
+          android:text="@string/bangla2"
+          android:textColor="#575757"
+          android:textColorHighlight="@color/white"
+          android:textIsSelectable="true"
+          android:textSize="25dp"
+
+          />
+
+      <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla3"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+          android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla4"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="350dp"
+         android:src="@drawable/html"
+         android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla5"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="330dp"
+          android:src="@drawable/web"
+          android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla6"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+     <ImageView
+         android:layout_width="wrap_content"
+         android:layout_height="350dp"
+         android:src="@drawable/appsdeve"
+         android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla7"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="350dp"
+          android:src="@drawable/fora"
+          android:scaleType="fitXY"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="330dp"
+            android:src="@drawable/anyoutuber"
+            android:scaleType="fitXY"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla8"
+            android:fontFamily="@font/banglaa"
+            android:textSize="20dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla9"
+            android:fontFamily="@font/banglaa"
+            android:textSize="20dp"
+            android:textIsSelectable="true"
+              android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="330dp"
+           android:src="@drawable/adobe"
+           android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla10"
+            android:fontFamily="@font/banglaa"
+            android:textSize="20dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla11"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+     <ImageView
+         android:layout_width="wrap_content"
+         android:layout_height="330dp"
+         android:src="@drawable/ccc"
+         android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla12"
+            android:fontFamily="@font/banglaa"
+            android:textSize="21dp"
+            android:textStyle="bold"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+     <ImageView
+         android:layout_width="wrap_content"
+         android:layout_height="350dp"
+         android:src="@drawable/socilass"
+         android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla13"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="350dp"
+          android:src="@drawable/ydsir"
+          android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangla14"
+            android:fontFamily="@font/banglaa"
+            android:textSize="25dp"
+            android:textIsSelectable="true"
+            android:textColor="#575757"
+            android:textColorHighlight="@color/white"
+
+            />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+
+
+
+
+
+
+

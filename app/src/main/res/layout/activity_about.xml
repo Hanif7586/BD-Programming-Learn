@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/whatsappback"
+    tools:context="aboutActivity">
+
+ <TextView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="BD Programming Learn"
+     android:textColor="#FCFCFD"
+     android:textSize="25dp"
+     android:textStyle="bold"
+
+     />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Version:1.0"
+        android:textColor="#5C6287"
+        android:textSize="25dp"
+         android:fontFamily="serif"
+
+
+        />
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/apps"
+        android:scaleType="fitXY"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="2021-2022 HST."
+        android:textColor="#5C6287"
+
+        android:textSize="25dp"
+         android:fontFamily="serif"
+
+
+        />
+
+
+</LinearLayout>
